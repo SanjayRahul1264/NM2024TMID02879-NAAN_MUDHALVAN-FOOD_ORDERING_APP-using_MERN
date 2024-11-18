@@ -1,0 +1,43 @@
+/* Navbar styles */
+.navbar-logo {
+    width: 25px;  /* Coin-sized width */
+    height: 25px; /* Coin-sized height */
+    border-radius: 50%; /* Optional: Makes the logo circular (like a coin) */
+    object-fit: cover; /* Ensures the image covers the container without distorting */
+    margin-right: 10px; /* Optional: Space between the logo and text */
+    display: inline-block; /* Align logo next to the text */
+    vertical-align: middle; /* Vertically center the logo */
+  }
+  
+  
+  .navbar h3 {
+    display: inline-block; /* Ensures the logo and text are in the same line */
+    font-size: 24px; /* Adjust font size for better visual balance */
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .navbar, .navbar-admin {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-search input {
+    padding: 5px;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  
+  .nav-search-icon {
+    font-size: 20px;
+  }
+  
