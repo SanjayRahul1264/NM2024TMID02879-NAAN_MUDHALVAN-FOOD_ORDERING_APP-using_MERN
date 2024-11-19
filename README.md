@@ -9,7 +9,7 @@
 5. Vinoth S
 
 # About Project:
-**SB - Food Delivery App**
+**SB - Food Ordering App**
 
  SB Foods is a modern food ordering platform designed to make online food ordering simple, fast, 
 and convenient. Whether you're a foodie exploring new cuisines or someone satisfying late-night 
